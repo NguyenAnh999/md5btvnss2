@@ -1,0 +1,3 @@
+one way binding data and two way binding data 
+react làm vc theo cơ chế one way binding data
+(khi dữ liệu bên trong component thay đổi thì giao diện bi thay đổi theo )
